@@ -1,0 +1,15 @@
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/bin/Debug/net7.0/CreateMottoPPT
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/bin/Debug/net7.0/CreateMottoPPT.deps.json
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/bin/Debug/net7.0/CreateMottoPPT.runtimeconfig.json
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/bin/Debug/net7.0/CreateMottoPPT.dll
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/bin/Debug/net7.0/CreateMottoPPT.pdb
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.csproj.AssemblyReference.cache
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.AssemblyInfoInputs.cache
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.AssemblyInfo.cs
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.csproj.CoreCompileInputs.cache
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.dll
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/refint/CreateMottoPPT.dll
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.pdb
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/CreateMottoPPT.genruntimeconfig.cache
+/Users/huanghans/Documents/Github/MyTool/CreateMottoPPT/obj/Debug/net7.0/ref/CreateMottoPPT.dll
